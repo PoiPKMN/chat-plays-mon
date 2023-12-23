@@ -1,0 +1,4 @@
+**/.vscode
+**/.editorconfig
+**/*.git
+**/node_modules

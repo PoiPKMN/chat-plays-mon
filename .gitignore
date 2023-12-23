@@ -2,3 +2,4 @@
 **/.editorconfig
 **/*.git
 **/node_modules
+**/.angular
